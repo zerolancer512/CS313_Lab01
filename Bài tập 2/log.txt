@@ -1,0 +1,17 @@
+# 32560
+# 15
+#Attribute 0: <age> <numeric>
+#Attribute 1: <workclass> <nominal>
+#Attribute 2: <fnlwgt> <numeric>
+#Attribute 3: <education> <nominal>
+#Attribute 4: <education-num> <numeric>
+#Attribute 5: <marital-status> <nominal>
+#Attribute 6: <occupation> <nominal>
+#Attribute 7: <relationship> <nominal>
+#Attribute 8: <race> <nominal>
+#Attribute 9: <sex> <nominal>
+#Attribute 10: <capital-gain> <numeric>
+#Attribute 11: <capital-loss> <numeric>
+#Attribute 12: <hours-per-week> <numeric>
+#Attribute 13: <native-country> <nominal>
+#Attribute 14: <>50K, <=50K> <nominal>
